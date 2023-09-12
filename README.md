@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nizam
 - 👀 I’m interested in Web development, python, and other 
-- 🌱 I’m currently learning websites (html, css, javascript) and python
+- 🌱 I’m currently learning about python
 
 <!---
 Chozam/Chozam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
