@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nizam
-- 👀 I’m interested in Web development, python, and other 
+- 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning about python
 
 <!---
