@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! 👋, I'm Nizam</h1>
-<h3>Undergraduate of informatics on UIN Sunan Kalijaga Yogyakarta, IndonesiaI</h3>
+<h3>Student of informatics on UIN Sunan Kalijaga Yogyakarta, IndonesiaI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chozam" alt="chozam" /> </p>
 
