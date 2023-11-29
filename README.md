@@ -5,7 +5,6 @@
 
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently exploring all about python
-- 📫 Reach me at **choza175@gmail.com*
 
 
 
