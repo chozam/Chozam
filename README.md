@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chozam" alt="chozam" /> </p>
 
-- 👀 I'm just a beginner who are trying to be consistent
+- 👀 I'm just a beginner who trying to be consistent
 - 🌱 I’m currently exploring all about python
 
 
